@@ -1,4 +1,4 @@
-module github.com/leonsteinhaeuser/git-tag-bump
+module github.com/viostream/git-tag-bump
 
 go 1.19
 

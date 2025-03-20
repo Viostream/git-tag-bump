@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/go-git/go-git/v5"
-	"github.com/leonsteinhaeuser/git-tag-bump/release"
+	"github.com/viostream/git-tag-bump/release"
 )
 
 var (
